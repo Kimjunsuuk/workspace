@@ -1,2 +1,3 @@
-hello, i'm Kimjunseok
-I'm interested in animal~
+hello, i'm Kimjunseok  
+I'm interested in animal~  
+hamster man
